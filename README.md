@@ -6,6 +6,4 @@ Hi there 👋
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge 👯 is the best thing for me ⚡⚡⚡
 
 
-
-📫 How to reach me: https://www.linkedin.com/in/g-merve-ayaz-b7428849/
                                                                                   

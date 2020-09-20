@@ -10,8 +10,10 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 
 
-💬About
+💬💬💬About
 
-Languages: Javascript, Python
-Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
-Back-End Development: Node.js, MongoDB, Express, Django, MySQL
+✨ Languages: Javascript, Python
+
+✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+
+✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL

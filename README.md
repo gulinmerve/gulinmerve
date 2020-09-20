@@ -6,4 +6,12 @@ Hi there 👋
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge 👯 is the best thing for me ⚡⚡⚡
 
 
-                                                                                  
+🌱🌱🌱To understand the future, I learn programming.⚡⚡⚡
+
+
+
+💬About
+
+Languages: Javascript, Python
+Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+Back-End Development: Node.js, MongoDB, Express, Django, MySQL

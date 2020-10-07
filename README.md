@@ -17,3 +17,6 @@ You may find some projects on my repos, feel free to contribute or using them. K
 ✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
 
 ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
+
+ ## 📫 How to reach me: <br>
+<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/g-merve-ayaz-b7428849/'>Linkedin</a>

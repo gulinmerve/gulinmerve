@@ -6,9 +6,11 @@ Hi there 👋
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
 
 
-✨ Languages: Javascript, Python
+✨ Languages: Swift, Javascript, Python
 
-✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+✨  Mobile Development : Swift , React Native
+
+✨ Front-End Development:React, Javascript, HTML, CSS, JQuery
 
 ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
 

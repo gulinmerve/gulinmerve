@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-✨ Gülin here ✨ I'm a developer, interested in writing new codes, dreaming new designs and creating new designs but my speciality is mobile applications.
+✨ Gülin here ✨ I'm a developer, interested in writing new codes, dreaming new designs and creating new designs.
  
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
 
